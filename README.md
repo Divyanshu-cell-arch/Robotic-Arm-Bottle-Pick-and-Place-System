@@ -26,7 +26,6 @@ Manual bottle handling operations in manufacturing industries are repetitive, ti
 
 ## CAD Design
 
-*(Insert Assembly Render)*
 
 Complete CAD models are available in the **CAD/** folder.
 
