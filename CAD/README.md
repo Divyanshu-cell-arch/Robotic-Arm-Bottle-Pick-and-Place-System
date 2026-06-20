@@ -7,7 +7,14 @@ This folder contains all CAD models developed for the Robotic Arm project.
 - Part Models
 - Assembly Models/
 - STEP Files/
-- End Effector Design
+- End Effector Design :
+-  ## Credits
+
+The standard end effector used in this project was sourced from GrabCAD.
+
+Original model: [Link to GrabCAD model]
+
+The overall assembly, mechanism design, integration, and engineering work are my own.
 - Base Structure
 - Joint Components/
 
