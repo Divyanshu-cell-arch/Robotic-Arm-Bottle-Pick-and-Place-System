@@ -1,54 +1,70 @@
-# Design and Development of a Robotic Arm for Bottle Pick and Place System
+# Design and Development of a Robotic Arm for Bottle Pick-and-Place System
 
 ## Project Overview
 
-This project focuses on the design and development of a robotic arm capable of performing automated bottle pick-and-place operations in manufacturing and packaging environments. The system was designed to improve productivity, accuracy, and operational efficiency by automating repetitive material handling tasks.
+This project presents the design and development of a robotic pick-and-place system capable of automating bottle handling operations in manufacturing and packaging environments.
 
-The robotic arm consists of multiple degrees of freedom, a gripper-based end effector, and a rigid mechanical structure optimized for stability and precision. The complete design process included CAD modelling, engineering calculations, component selection, structural validation, and assembly design.
+The robotic arm was designed to perform repetitive pick-and-place tasks with improved precision, reliability, and operational efficiency. The project involved complete mechanical design, CAD modelling, kinematic planning, component selection, and engineering analysis to develop a manufacturable automation solution.
 
 ---
 
 ## Problem Statement
 
-Manual bottle handling operations in manufacturing industries are repetitive, time-consuming, and prone to human error. There is a need for an automated robotic system capable of accurately picking, transporting, and placing bottles while maintaining operational reliability and reducing labor dependency.
+Manual material handling in production lines is repetitive, time-consuming, and prone to human error. Industries require compact and cost-effective robotic systems capable of automating repetitive pick-and-place operations while improving productivity, accuracy, and workplace safety.
 
 ---
 
 ## Objectives
 
-- Design a robotic arm for bottle pick-and-place applications.
-- Develop a lightweight and rigid mechanical structure.
-- Design an efficient end-effector for bottle gripping.
-- Optimize the mechanism for smooth motion and repeatability.
-- Validate the design through engineering calculations and CAD modelling.
+* Design a robotic arm for bottle pick-and-place application.  
+* Develop a compact and lightweight mechanical structure.
+* Ensure smooth multi-axis motion for accurate positioning.
+
+
+
+--- 
+
+## System Architecture
+
+The robotic arm consists of:
+
+* Base Assembly
+* Rotational Joint
+* Shoulder Link
+* Elbow Link
+* Wrist Assembly
+* End-Effector (Bottle Gripper)
+
+The system performs automated bottle pick-up, transfer, and placement through coordinated multi-axis movement.
 
 ---
 
 ## CAD Design
 
+*(Insert Final Assembly Render Here)*
 
-Complete CAD models are available in the **CAD/** folder.
-
----
-
-## Engineering Drawings
-
-Manufacturing drawings are available in the **Engineering_Drawings/** folder.
+Complete CAD models are available in the **CAD/** directory.
 
 ---
 
-## Design Calculations
 
-Engineering calculations including motor selection, torque analysis, payload calculations, and structural analysis are available in the **Calculations/** folder.
+## Applications
+
+* Packaging Industry
+* Beverage Manufacturing
+* Material Handling
+* Warehouse Automation
+* Assembly Lines
+* Industrial Robotics
 
 ---
 
-## Simulation
+## Technologies & Skills Used
 
-Simulation files and motion studies are available in the **Simulation/** folder.
+* Fusion 360
+* Mechanical Design
+* Robotics
+* Industrial Automation
 
 ---
 
-## Final Report
-
-Complete documentation is available in the **Report/** folder.
